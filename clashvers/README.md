@@ -238,6 +238,7 @@ Through this project, I gained practical experience with:
 ## Author
  
 Soham Dalvi
+
 Major Project for
 Final Year AI & DS Engineering Student
 
